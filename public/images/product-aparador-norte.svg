@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1280" viewBox="0 0 1024 1280">
-  <rect width="1024" height="1280" fill="#f0ece4"/>
-  <circle cx="512" cy="600" r="430" fill="#e3dccd"/>
-  <rect x="212" y="280" width="600" height="760" rx="300" fill="#f0ece4"/>
-  <circle cx="512" cy="160" r="10" fill="#e97730"/>
-  <text x="512" y="640" text-anchor="middle" font-family="Georgia, serif" font-size="56" font-style="italic" fill="#1c1b18">Aparador Norte</text>
-  <text x="512" y="712" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="7" fill="#5c5850">LÍNEA NORTE</text>
-</svg>

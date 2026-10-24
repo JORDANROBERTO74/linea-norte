@@ -44,7 +44,7 @@ export function Hero({ locale, dict }: { locale: Locale; dict: Dictionary }) {
         <div className="relative">
           <div className="relative aspect-[4/5] overflow-hidden rounded-[2rem] bg-paper-deep">
             <Image
-              src="/images/hero.svg"
+              src="/images/hero.webp"
               alt={dict.home.hero.title}
               fill
               priority

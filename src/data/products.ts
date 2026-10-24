@@ -7,7 +7,7 @@ export const products: Product[] = [
     name: "Sillón Nórdico",
     category: "seating",
     price: 24900,
-    image: "/images/product-sillon-nordico.svg",
+    image: "/images/product-sillon-nordico.webp",
     material: { en: "Solid oak · wool", es: "Roble macizo · lana" },
     featured: true,
     details: {
@@ -25,7 +25,7 @@ export const products: Product[] = [
     name: "Butaca Eira",
     category: "seating",
     price: 31900,
-    image: "/images/product-butaca-eira.svg",
+    image: "/images/product-butaca-eira.webp",
     material: { en: "Beech · washed linen", es: "Haya · lino lavado" },
     featured: true,
     details: {
@@ -43,7 +43,7 @@ export const products: Product[] = [
     name: "Mesa Lumen",
     category: "tables",
     price: 38900,
-    image: "/images/product-mesa-lumen.svg",
+    image: "/images/product-mesa-lumen.webp",
     material: { en: "Oak · steel", es: "Roble · acero" },
     featured: true,
     details: {
@@ -61,7 +61,7 @@ export const products: Product[] = [
     name: "Mesa de centro Alba",
     category: "tables",
     price: 27900,
-    image: "/images/product-mesa-alba.svg",
+    image: "/images/product-mesa-alba.webp",
     material: { en: "Walnut · glass", es: "Nogal · vidrio" },
     featured: false,
     details: {
@@ -79,7 +79,7 @@ export const products: Product[] = [
     name: "Lámpara Arco",
     category: "lighting",
     price: 12900,
-    image: "/images/product-lampara-arco.svg",
+    image: "/images/product-lampara-arco.webp",
     material: { en: "Brass · linen", es: "Latón · lino" },
     featured: true,
     details: {
@@ -97,7 +97,7 @@ export const products: Product[] = [
     name: "Lámpara Halo",
     category: "lighting",
     price: 8900,
-    image: "/images/product-lampara-halo.svg",
+    image: "/images/product-lampara-halo.webp",
     material: { en: "Ceramic · oak", es: "Cerámica · roble" },
     featured: false,
     details: {
@@ -115,7 +115,7 @@ export const products: Product[] = [
     name: "Aparador Norte",
     category: "storage",
     price: 54900,
-    image: "/images/product-aparador-norte.svg",
+    image: "/images/product-aparador-norte.webp",
     material: { en: "Oak · rattan doors", es: "Roble · puertas de rejilla" },
     featured: false,
     details: {
@@ -133,7 +133,7 @@ export const products: Product[] = [
     name: "Estantería Roble",
     category: "storage",
     price: 42900,
-    image: "/images/product-estanteria-roble.svg",
+    image: "/images/product-estanteria-roble.webp",
     material: { en: "Oak · black steel", es: "Roble · acero negro" },
     featured: false,
     details: {

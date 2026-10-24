@@ -25,7 +25,7 @@ export const articles: Article[] = [
     },
     date: "2026-10-08",
     tag: { en: "Inspiration", es: "Inspiración" },
-    image: "/images/journal-esencial.svg",
+    image: "/images/journal-esencial.webp",
     author: { en: "Elena Ríos", es: "Elena Ríos" },
   },
   {
@@ -52,7 +52,7 @@ export const articles: Article[] = [
     },
     date: "2026-09-21",
     tag: { en: "Craft", es: "Oficio" },
-    image: "/images/journal-materiales.svg",
+    image: "/images/journal-materiales.webp",
     author: { en: "Javier Norte", es: "Javier Norte" },
   },
   {
@@ -79,7 +79,7 @@ export const articles: Article[] = [
     },
     date: "2026-08-14",
     tag: { en: "Living", es: "Habitar" },
-    image: "/images/journal-hogar.svg",
+    image: "/images/journal-hogar.webp",
     author: { en: "Lucía Marín", es: "Lucía Marín" },
   },
 ];

@@ -13,7 +13,7 @@ export function Philosophy({ locale, dict }: { locale: Locale; dict: Dictionary 
         <div className="grid items-center gap-12 md:grid-cols-2">
           <div className="relative aspect-[4/3] overflow-hidden rounded-[2rem] bg-paper-deep">
             <Image
-              src="/images/about.svg"
+              src="/images/about.webp"
               alt={dict.home.philosophy.title}
               fill
               sizes="(max-width: 768px) 90vw, 560px"
